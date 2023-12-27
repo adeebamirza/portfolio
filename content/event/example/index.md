@@ -1,28 +1,25 @@
 ---
-title: Example Talk
+title: 5ᵗʰ National Conference on Recent Advancement in Physical Sciences
+event: (NCRAPS-2023)
+event_url: https://www.nituk.ac.in
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+location: National Institute Of Technology, Uttarakhand
+# address:
+#   city: Srinagar, Pauri (Garhwal)
+#   region: Uttarakhand
+#   country: India
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Presented a talk on an innovative nanotitania-based approach for oil-water separation.
+abstract: Development of Superhydrophobic/Oleophilic Fabric using Modified Nanotitania for Oil-water Separation
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-12-19T10:00:00Z'
+date_end: '2023-12-20T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-12-25T00:00:00Z'
 
 authors: []
 tags: []
@@ -30,44 +27,8 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - example
+url_pdf: uploads/AbstractBook.pdf
+# url_video: ''
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vQtIz3wTloJIW-JW-XYCvOTqivlWvSUjtanVMDJMnjVkWBLLdiIhgnOW6pHhbiZCUp-QdhX6nACeSO2/embed?start=false&loop=false&delayms=3000" >}}

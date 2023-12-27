@@ -1,0 +1,1 @@
+<a class="navbar-brand" href="index.html">{{ with .Site.Params.navigation.logo }} <img src="{{(( resources.Get . ).Resize "x22").RelPermalink}}" alt="logo" > {{ end }}{{ with .Site.Params.navigation.brand }}{{ . | markdownify }}{{ end }}</a>

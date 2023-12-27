@@ -1,89 +1,131 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Adeeba Mirza
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Adeeba
+last_name: Mirza
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📚
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Chemistry PhD Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Graphic Era (Deemed to be University)
+    url: https://geu.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include NanoTechnology, Environmental Chemistry and Organic Chemistry.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - NanoTechnology
+  - Oil/Water Separation
+  - Study of Emulsions
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Chemistry
+      institution: Graphic Era (Deemed to be University)
+      year: Pursuing
+    - course: MSc in Chemistry
+      institution: Graphic Era (Deemed to be University)
+      year: 2023
+    - course: BSc in Chemistry
+      institution: Uttaranchal University
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Data Analysis 
         description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
+        percent: 85
+        icon: magnifying-glass-chart
         icon_pack: fas
-      - name: SQL
+      - name: Project Management
         description: ''
-        percent: 40
-        icon: database
+        percent: 78
+        icon: list-check
+        icon_pack: fas
+      - name: Statistical Analysis 
+        description: ''
+        percent: 95
+        icon: chart-simple
+        icon_pack: fas
+      - name: Sample Preparation
+        description: ''
+        percent: 90
+        icon: flask
+        icon_pack: fas
+      - name: Numerical Analysis 
+        description: ''
+        percent: 93
+        icon: chart-simple
+        icon_pack: fas
+      - name: Gas Chromatography
+        description: ''
+        percent: 70
+        icon: barcode
+        icon_pack: fas
+      - name: Spectrophotometers
+        description: ''
+        percent: 60
+        icon: microscope
+        icon_pack: fas
+      - name: Centrifuges
+        description: ''
+        percent: 74
+        icon: vials
+        icon_pack: fas
+      - name: Scanning Electron Microscopy (SEM)
+        description: ''
+        percent: 75
+        icon: atom
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
         icon: camera-retro
+        icon_pack: fas
+      - name: Journaling
+        description: ''
+        percent: 75
+        icon: book-journal-whills
+        icon_pack: fas
+      - name: Music
+        description: ''
+        percent: 80
+        icon: music
+        icon_pack: fas
+      - name: Drawing
+        description: ''
+        percent: 70
+        icon: palette
+        icon_pack: fas
+      - name: Walking
+        description: ''
+        percent: 80
+        icon: person-walking
+        icon_pack: fas
+      - name: Reading
+        description: ''
+        percent: 90
+        icon: book
         icon_pack: fas
 
 # Social/Academic Networking
@@ -96,16 +138,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -120,5 +159,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Adeeba Mirza is a PhD Scholar of Chemistry at the Graphic Era (Deemed to be University). Her research interests include nanotechnology, study of emulsions and environmental chemistry. Currently, She is developing a Superhydrophobic/Oleophilic Fabric using modified Nanotitania for the separation of Oil-water.
 {style="text-align: justify;"}
