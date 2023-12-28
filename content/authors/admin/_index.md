@@ -22,7 +22,7 @@ organizations:
     url: https://geu.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NanoTechnology, Environmental Chemistry and Organic Chemistry.
+bio: My research interests encompass nanotechnology, the study of emulsions and environmental chemistry.
 
 # Interests to show in About widget
 interests:
@@ -159,5 +159,5 @@ social:
 highlight_name: true
 ---
 
-Adeeba Mirza is a PhD Scholar of Chemistry at the Graphic Era (Deemed to be University). Her research interests include nanotechnology, study of emulsions and environmental chemistry. Currently, She is developing a Superhydrophobic/Oleophilic Fabric using modified Nanotitania for the separation of Oil-water.
+Hello! I am Adeeba Mirza, a PhD Scholar of Chemistry at Graphic Era (Deemed to be University). My research interests encompass nanotechnology, the study of emulsions and environmental chemistry. At present, I am actively engaged in the development of a Superhydrophobic/Oleophilic Fabric using modified Nanotitania for the separation of Oil-water.
 {style="text-align: justify;"}
