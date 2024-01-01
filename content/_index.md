@@ -42,7 +42,7 @@ sections:
               Responsibilities include:
 
               * Research & Development
-              * Teaching Assitant
+              * Teaching Assistant
               * Experimentation
         - title: Research Assistant Intern
           company: Department Of Chemistry, Graphic Era (Deemed to be University)
